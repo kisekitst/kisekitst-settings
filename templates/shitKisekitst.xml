@@ -1,5 +1,5 @@
-<templateSet group="shitViyayaya">
-  <template name="shitViyayaya" value="shitViyayaya" description="shitViyayaya" toReformat="true" toShortenFQNames="true">
+<templateSet group="shitKisekitst">
+  <template name="shitKisekitst" value="shitKisekitst" description="shitKisekitst" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
