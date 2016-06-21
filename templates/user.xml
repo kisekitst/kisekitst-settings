@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="kisekitst" value="kisekitst" description="this is test for kisekitst" toReformat="true" toShortenFQNames="true">
+  <template name="viyayaya" value="viyayaya" description="this is test for viyayaya" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
