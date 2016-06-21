@@ -1,4 +1,7 @@
 <code_scheme name="My Scheme">
   <option name="RIGHT_MARGIN" value="20" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
 </code_scheme>
