@@ -1,0 +1,5 @@
+<templateSet group="user">
+  <template name="fuckviyayaya" value="fuckviyayaya" description="" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
